@@ -1,0 +1,33 @@
+Table S1.  Statistics of KMT2C mutations in 30 cancer types from TCGA and ICGC datasets.Ê								
+	Cancer cohorts	Number of Samples	                                                    Number of samples for point mutations		      Number of samples for structural variations		      Number of samples for ATAC-seq including  peaks overlapped with APOBEC3B	
+			KMT2C mutant	others	 KMT2C mutant 	others	 KMT2C mutant 	others
+TCGA	BRCA (Breast invasive carcinoma)	985	88	897	NA	NA	6	67
+	LUAD (Lung adenocarcinoma)	567	47	520	NA	NA	2	20
+	PRAD (Prostate adenocarcinoma)	495	20	475	NA	NA	0	22
+	HNSC (Head and Neck squamous cell carcinoma)	507	29	478	NA	NA	2	6
+	UCEC (Uterine Corpus Endometrial Carcinoma)	530	94	436	NA	NA	2	7
+	LUSC (Lung squamous cell carcinoma)	492	53	439	NA	NA	0	15
+	SKCM (Skin Cutaneous Melanoma)	467	49	418	NA	NA	1	2
+	OV (Ovarian serous cystadenocarcinoma)	436	31	405	NA	NA	0	0
+	STAD (Stomach adenocarcinoma)	437	53	384	NA	NA	0	21
+	GBM (Glioblastoma multiforme)	393	26	367	NA	NA	0	9
+	LIHC (Liver hepatocellular carcinoma)	364	11	353	NA	NA	2	15
+	COAD (Colon adenocarcinoma)	399	48	351	NA	NA	5	32
+	BLCA (Bladder urothelial carcinoma)	412	69	343	NA	NA	1	8
+	KIRC (Kidney renal clear cell carcinoma)	336	13	323	NA	NA	0	15
+	KIRP (Kidney renal papillary cell carcinoma)	281	19	262	NA	NA	4	28
+	CESC (Cervical and endocervical cancers)	289	56	233	NA	NA	1	1
+	ESCA (Esophageal carcinoma)	184	11	173	NA	NA	0	18
+ICGC	BRCA-EU (Breast ER+ and HER2- Cancer - EU/UK)	569	47	522	45	499	NA	NA
+	ESAD-UK (Esophageal Adenocarcinoma - UK)	423	27	396	NA	NA	NA	NA
+	"LIRI-JP (Liver Cancer - RIKEN, JP)"	270	20	250	20	235	NA	NA
+	PACA-CA (Pancreatic Cancer - CA)	268	24	244	24	235	NA	NA
+	LAML-KR (Acute Myeloid Leukemia - KR)	32	11	21	NA	NA	NA	NA
+	COCA-CN (Colorectal Cancer - CN)	30	12	18	NA	NA	NA	NA
+	LUSC-KR (Lung Cancer - Squamous cell carcinoma - KR)	30	12	18	NA	NA	NA	NA
+	MELA-AU (Skin Cancer - AU)	199	36	163	31	152	NA	NA
+	BRCA-FR (Breast Cancer - FR)	72	8	64	8	64	NA	NA
+	BRCA-UK (Breast Triple Negative/Lobular Cancer - UK)	45	4	41	2	28	NA	NA
+	"BRCA-US ( Breast Cancer - TCGA, US)"	91	10	81	NA	NA	NA	NA
+	"SKCM-US (Skin Cutaneous melanoma - TCGA, US)"	37	4	33	NA	NA	NA	NA
+	"BLCA-US (Bladder Urothelial Cancer - TCGA, US)"	23	6	17	NA	NA	NA	NA
